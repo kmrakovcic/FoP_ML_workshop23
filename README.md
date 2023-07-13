@@ -4,7 +4,7 @@ This workshop explores the use of Machine Learning and Artificial Intelligence t
 
 | **Project Goal**              | Learn how to use ML in research |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | How to use Python, how to fit in Python, what is machine learning, What are neural networks, how do they work |
+| **What will you learn**       | How to use Python? How to fit in Python? What is machine learning? What are neural networks? How do they work? |
 | **What you'll need**          | [Google account](https://support.google.com/mail/answer/56256?hl=en), ability to run [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) |
 | **Duration**                  | *5 days, 2 hours per day*                                                                |
 | **Author** | [Karlo Mrakovčić](https://www.phy.uniri.hr/hr/djelatnici/28-hr/djelatnici/2306-karlo-mrakovcic.html) |
