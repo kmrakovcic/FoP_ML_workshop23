@@ -1,4 +1,4 @@
-#Machine Learning Workshop 2023
+# Machine Learning Workshop 2023
 
 This workshop explores the use of Machine Learning and Artificial Intelligence to aid in research. 
 
@@ -9,6 +9,7 @@ This workshop explores the use of Machine Learning and Artificial Intelligence t
 | **Duration**                  | *5 days*                                                                |
 | **Author** | [Karlo Mrakovčić](https://www.phy.uniri.hr/hr/djelatnici/28-hr/djelatnici/2306-karlo-mrakovcic.html) |
 
+# Schedule
 Day #1
 [Introduction to Python](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/01_introduction_to_python.ipynb)
 
