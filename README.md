@@ -23,4 +23,4 @@ Day #4
 [Deep Learning](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/04_deep_learning2.ipynb)
 
 Day #5
-TBD
+[Tensorflow, Dimensionality Reduction and Clustering](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/05_mlLibraries.ipynb)
