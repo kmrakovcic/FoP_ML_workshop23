@@ -17,7 +17,7 @@ Day #2
 [Optimisation in Python](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/02_fitting.ipynb)
 
 Day #3
-[Neural Networks](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/03_deep_learning1.ipynb)
+[Machine Learning](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/03_introduction_to_machine_learning.pdf) and [Neural Networks](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/03_deep_learning1.ipynb)
 
 Day #4
 [Deep Learning](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/04_deep_learning2.ipynb)
