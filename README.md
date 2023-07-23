@@ -24,3 +24,5 @@ Day #4
 
 Day #5
 [Tensorflow, Dimensionality Reduction and Clustering](https://github.com/kmrakovcic/FoP_ML_workshop23/blob/master/05_mlLibraries.ipynb)
+
+Please take a moment to leave some [feedback](https://forms.gle/riUP9jWbyxeCinYF6)
